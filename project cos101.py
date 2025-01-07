@@ -55,6 +55,5 @@ def openNewWindow():
 
 mb.menu.add_command(label="Igbo dictionary",command=(openNewWindow))
 mb.pack()
-
 window.mainloop()
 
